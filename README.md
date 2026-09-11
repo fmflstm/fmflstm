@@ -1,4 +1,4 @@
-## 202633981 이상우
+## Hi, I'm Sangwoo Lee
 
 <!--
 **fmflstm/fmflstm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
